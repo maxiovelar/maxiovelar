@@ -1,4 +1,4 @@
-#Hi there, I'm ✨ Maxi Ovelar ✨  👋
+# Hi there, I'm ✨ Maxi Ovelar ✨  👋
 
 - 🔭 I’m currently working on JavaScript, but I'm also interested in other technologies.
 - 🌱 I’m currently learning: ReactJS, SQL & NoSQL DataBases and improving my skills with NodeJS.
