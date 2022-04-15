@@ -1,8 +1,8 @@
 # Hi there, I'm ✨ Maxi Ovelar ✨ 👋
 
-- 🔭 I’m currently working on JavaScript, but I'm also interested in other technologies.
-- 🌱 I’m currently learning: ReactJS, SQL & NoSQL DataBases and improving my skills with NodeJS.
-- 💬 Ask me about: HTML, CSS, Bootstrap and JavaScript, ReactJS, NodeJS.
+- 🔭 I’m currently working on <b>JavaScript</b>, but I'm also interested in other technologies.
+- 🌱 I’m currently learning: <b>ReactJS</b>, <b>SQL</b> & <b>NoSQL</b> <b>DataBases</b> and improving my skills with <b>NodeJS</b>.
+- 💬 Ask me about: <b>HTML</b>, <b>CSS</b>, <b>Bootstrap</b> and <b>JavaScript</b>, <b>ReactJS</b>, <b>NodeJS</b>.
 - 🤔 I’m looking for taking on new challenges.
 - 📫 How to reach me: drop me a line to [maxiovelar@gmail.com](mailto:maxiovelar@gmail.com)
 - ⚡ Fun fact: I'm passionate about :soccer: and :video_game:
