@@ -8,7 +8,3 @@
 - ⚡ Fun fact: I'm passionate about :soccer: and :video_game:.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maxiovelar&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiovelar&hide=issues,prs&count_private=true&show_icons=true&theme=merko&hide_border=true)](https://github.com/maxiovelar/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiovelar&layout=compact&theme=merko&hide_border=true)](https://github.com/maxiovelar/github-readme-stats)
