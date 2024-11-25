@@ -1,8 +1,8 @@
 # Hi there, I'm ✨ Maxi Ovelar ✨
 
 - 🔭 I’m currently working on <b>JavaScript</b>, <b>TypeScript</b>, <b>ReactJS</b>, <b>NextJS</b>, <b>NodeJS</b>, and <b>TailwindCSS</b> but I'm also interested in other technologies.
-- 🌱 I’m currently learning: <b>Angular</b>, <b>PHP</b>, and improving my testing skills with <b>Jest</b> and <b>Cypress</b>.
-- 💬 Ask me about: <b>HTML</b>, <b>CSS</b>, <b>TailwindCSS</b>, <b>JavaScript</b> and <b>ReactJS</b>.
+- 🌱 I’m currently learning: <b>Hexagonal Architecture</b>, <b>Tanstack React Query</b>, and improving my testing skills with <b>Jest</b> and <b>Cypress</b>.
+- 💬 Ask me about: <b>HTML</b>, <b>CSS</b>, <b>TailwindCSS</b>, <b>JavaScript</b>, <b>TypeScript</b> and <b>ReactJS</b>.
 - 💪 I’m looking forward to taking on new challenges and continue growing up not only professionally, but also personally.
 - 📫 How to reach me: drop me a line to [maxiovelar@gmail.com](mailto:maxiovelar@gmail.com).
 - ⚡ Fun fact: I'm passionate about :soccer: and :video_game:.
